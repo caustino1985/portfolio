@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Portfolio: Creative & Systems Architecture",
+  "description": "An Android-optimized master creative portfolio featuring clean design, seamless navigation, and interactive deep-dives into neural prosthetics, algorithmic finance, constitutional jurisprudence, and civic infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
